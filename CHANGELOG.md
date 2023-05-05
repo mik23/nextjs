@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/mik23/nextjs/compare/v1.1.0...v1.1.1) (2023-05-05)
+
+
+### Bug Fixes
+
+* adding a test patch ([dac89a9](https://github.com/mik23/nextjs/commit/dac89a9093686bf18be1cbe6b46e18d8737db45e))
+
 # [1.1.0](https://github.com/mik23/nextjs/compare/v1.0.0...v1.1.0) (2023-05-05)
 
 
