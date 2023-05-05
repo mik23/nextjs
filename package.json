@@ -1,6 +1,6 @@
 {
   "name": "nextjs",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -51,6 +51,9 @@
         "message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
       }
     ],
-    "branches": ["main", "staging"]
+    "branches": [
+      "main",
+      "staging"
+    ]
   }
 }
