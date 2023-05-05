@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/mik23/nextjs/compare/v1.0.0...v1.1.0) (2023-05-05)
+
+
+### Features
+
+* add paragraph option ([ba0f683](https://github.com/mik23/nextjs/commit/ba0f68399c030eef9daac9e9c650a78f711d31e9))
+
 # 1.0.0 (2023-05-05)
 
 
