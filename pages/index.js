@@ -16,6 +16,7 @@ export default function Home() {
       </Head>
       <main className={`${styles.main} ${inter.className}`}>
         <div className={styles.description}>
+        <p>bla bla bla 1</p>
           <p>
             Get started by editing&nbsp;
             <code className={styles.code}>pages/index.js</code>
