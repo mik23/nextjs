@@ -1,3 +1,17 @@
+# [1.3.0](https://github.com/mik23/nextjs/compare/v1.2.1...v1.3.0) (2023-05-05)
+
+
+### Bug Fixes
+
+* broken package json ([34cb290](https://github.com/mik23/nextjs/commit/34cb29062dfc94e5044c8b09abb04cd1d5c4820d))
+
+
+### Features
+
+* adding dev ([dbcd79e](https://github.com/mik23/nextjs/commit/dbcd79eb23dc87bf9bd6aee33289dafb0ef9e0f1))
+* changed style ([df7bf18](https://github.com/mik23/nextjs/commit/df7bf18acf81c47abb1d08780e03aa1707b6224e))
+* changed style ([67b2fb3](https://github.com/mik23/nextjs/commit/67b2fb3309b1a5794bebe29a51f7109a4be263e0))
+
 ## [1.2.1](https://github.com/mik23/nextjs/compare/v1.2.0...v1.2.1) (2023-05-05)
 
 
