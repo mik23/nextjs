@@ -55,7 +55,7 @@
       "+([0-9])?(.{+([0-9]),x}).x",
       "main",
       "staging",
-      "dev"
+      "dev",
       {
         "name": "beta",
         "prerelease": true
