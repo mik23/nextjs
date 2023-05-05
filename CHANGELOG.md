@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/mik23/nextjs/compare/v1.2.0...v1.2.1) (2023-05-05)
+
+
+### Bug Fixes
+
+* delete line patch ([5eec120](https://github.com/mik23/nextjs/commit/5eec1203f7b89c479e6b3d677a1169c82eee0d8b))
+
 # [1.2.0](https://github.com/mik23/nextjs/compare/v1.1.1...v1.2.0) (2023-05-05)
 
 
