@@ -13,6 +13,21 @@
 * branche changes ([f6a07ed](https://github.com/mik23/nextjs/commit/f6a07ed6ed81181ae0d4827bf4db5a3a10467d60))
 * branche changes ([2245ff9](https://github.com/mik23/nextjs/commit/2245ff9bf10aa82d7c94729b5758abf2e3b7686b))
 
+# [1.2.0](https://github.com/mik23/nextjs/compare/v1.1.1...v1.2.0) (2023-05-05)
+
+
+### Bug Fixes
+
+* adding a test patch ([521e233](https://github.com/mik23/nextjs/commit/521e233b6e7a270596c21df241c89b9f67f72d49))
+* bump up version ([d610c78](https://github.com/mik23/nextjs/commit/d610c787b7fd613c7de9abd4570761e506675cd3))
+* bump up version ([0efdd0f](https://github.com/mik23/nextjs/commit/0efdd0ffafdd9db9b8546864aa68ce4377048eaa))
+
+
+### Features
+
+* branche changes ([f6a07ed](https://github.com/mik23/nextjs/commit/f6a07ed6ed81181ae0d4827bf4db5a3a10467d60))
+* branche changes ([2245ff9](https://github.com/mik23/nextjs/commit/2245ff9bf10aa82d7c94729b5758abf2e3b7686b))
+
 ## [1.1.1](https://github.com/mik23/nextjs/compare/v1.1.0...v1.1.1) (2023-05-05)
 
 
